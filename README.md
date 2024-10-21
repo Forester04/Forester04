@@ -4,7 +4,7 @@ Hi there! I'm Erick Forester, a passionate tech enthusiast from Nairobi, Kenya. 
 Developing "LinguaFlash", a React Native app to help users learn German through flashcards.
 Contributing to open-source projects and enhancing my backend skills using plain Node.js.
 ## Goals:
-I'm focused on mastering backend development and API security as part of my research, especially the integration of AI into APIs.
+I'm focused on mastering backend development and API security as part of my research, especially the integration of AI into APIs.<br>
 I'm working toward fluency in German.
 ## In the future:
 I aim to continue building impactful web and mobile applications, contribute to open source, and pursue opportunities in application development and AI-driven solutions.
