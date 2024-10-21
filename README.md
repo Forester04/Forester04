@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi there! I'm Erick Forester, a passionate tech enthusiast from Nairobi, Kenya. I enjoy in building user-friendly, scalable web applications with a focus on UI/UX design, and performance. With a strong foundation in Node.js, React, Figma, TypeScript/JavaScript, and Python I enjoy bringing ideas to life and solving complex challenges.<br><br>What I’m working on:<br>- Developing "LinguaFlash", a React Native app to help users learn German through flashcards.<br>- Contributing to open-source projects and enhancing my backend skills using plain Node.js.<br><br>Goals:<br>- I'm focused on mastering backend development and API security as part of my research, especially the integration of AI into APIs.<br>- I'm working toward fluency in German.<br><br>In the future:<br>- I aim to continue building impactful web and mobile applications, contribute to open source, and pursue opportunities in application development and AI-driven solutions<br><br>Ask Me About:<br>- Frontend and backend development<br>- API design and security<br>- Web application optimization<br>- Building projects using Node.js without frameworks.<br><br>Fun Fact: <br>I'm a fan of blending tech with creativity. Whether it's solving a coding challenge or finding innovative ways to improve user experience.<br>
+Hi there! I'm Erick Forester, a passionate tech enthusiast from Nairobi, Kenya. I enjoy in building user-friendly, scalable web applications with a focus on UI/UX design, and performance. With a strong foundation in Node.js, React, Figma, TypeScript/JavaScript, and Python I enjoy bringing ideas to life and solving complex challenges.
+## What I’m working on:
+Developing "LinguaFlash", a React Native app to help users learn German through flashcards.
+Contributing to open-source projects and enhancing my backend skills using plain Node.js.
+## Goals:
+I'm focused on mastering backend development and API security as part of my research, especially the integration of AI into APIs.
+I'm working toward fluency in German.
+## In the future:
+I aim to continue building impactful web and mobile applications, contribute to open source, and pursue opportunities in application development and AI-driven solutions.
+## Ask Me About: 
+Frontend and backend development, API design and security, Web application optimization, Building projects using Node.js without frameworks.
+## Fun Fact: 
+I'm a fan of blending tech with creativity. Whether it's solving a coding challenge or finding innovative ways to improve user experience.<br>
 
 
 ## 🌐 Socials:
